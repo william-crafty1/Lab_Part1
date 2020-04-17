@@ -35,7 +35,7 @@ h5{
 }
 
 h2 {
-    margin-top: 50px;
+    margin-top: 40px;
 }
 /* Button CSS */
 
@@ -48,7 +48,7 @@ button {
     padding: 12px;
     margin-right: 10px;
     margin-left: 10px;
-    height: fit-content;
+    height: 45px;
     border: none;
     cursor: pointer;
 
