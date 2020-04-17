@@ -1,0 +1,75 @@
+/* Main HTML CSS */
+
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: #f9fafc;
+}
+
+/* Mobile CSS */
+
+/* navigation CSS */
+
+.nav {
+    position: relative;
+}
+
+.navigationList {
+    list-style: none;
+    text-align: left;
+    margin-left: -30px;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+li {
+    margin: 5px 0px 10px 5px ;
+}
+
+/* h5 CSS */
+
+h5{
+    margin-bottom: 0px;
+}
+
+/* Button CSS */
+
+button {
+    color: #FFF;
+    background-color: #000;
+    text-align: center;
+    border-radius: 20px;
+    width: 95%;
+    padding: 12px;
+    margin-right: 10px;
+    margin-left: 10px;
+    height: fit-content;
+    border: none;
+    cursor: pointer;
+
+}
+
+/* Link CSS */
+
+a {
+    color: #69696a;
+    padding-top: 5px;
+    font-size: small;
+}
+
+a :visited {
+    color: #69696a;
+}
+
+/* Main content CSS */
+
+.main {
+    color: #69696a;
+    border-left: 5px solid #69696a;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+
